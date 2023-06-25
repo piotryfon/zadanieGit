@@ -16,6 +16,6 @@ email: madlena.staniszewska@gmail.com
 [link do Magdalena Staniszewska bio](MagdalenaStaniszewska.md) 
 
 ## redaktor: Marek Laskowski
-emai: marek.laskowski_przykladowyEmail@gmail.com
+email: marek.laskowski_przykladowyEmail@gmail.com
 [link do przepisu 3](przepis4.md) 
 [link do Magdalena Staniszewska bio](MarekLaskowski.md) 
