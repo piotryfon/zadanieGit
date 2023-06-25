@@ -1,7 +1,7 @@
 # Picks of the month
 
 ## redaktor: Piotr Tryfon
-emai: pit.pit@wp.pl
+email: pit.pit@wp.pl
 [link do przepisu 1](przepis1.md) 
 [link do Piotr Tryfon bio](PiotrTryfon.md) 
 
