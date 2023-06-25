@@ -11,7 +11,7 @@ emai: paula9610.pm@gmail.com
 [link do Paula Mugulska bio](PaulaMigulska.md) 
 
 ## redaktor: Magdalena Staniszewska
-emai: madlena.staniszewska@gmail.com
+email: madlena.staniszewska@gmail.com
 [link do przepisu 3](przepis3.md) 
 [link do Magdalena Staniszewska bio](MagdalenaStaniszewska.md) 
 
