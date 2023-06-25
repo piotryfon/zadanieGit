@@ -14,9 +14,9 @@ April -> [Picks of the Month]()
 
 May -> [Picks of the Month]()
 
-June -> [Picks of the Month]()
+June -> [Picks of the Month](Picks_of_the_month.md)
 
-July -> [Picks of the Month](Picks_of_the_month.md)
+July -> [Picks of the Month]()
 
 August -> [Picks of the Month]()
 
