@@ -6,7 +6,7 @@ email: pit.pit@wp.pl
 [link do Piotr Tryfon bio](PiotrTryfon.md) 
 
 ## redaktor: Paula Migulska
-emai: paula9610.pm@gmail.com
+email: paula9610.pm@gmail.com
 [link do przepisu 2](przepis2.md) 
 [link do Paula Mugulska bio](PaulaMigulska.md) 
 
