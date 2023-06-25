@@ -5,10 +5,10 @@ emai: pit.pit@wp.pl
 [link do przepisu 1](przepis1.md) 
 [link do Piotr Tryfon bio](PiotrTryfon.md) 
 
-## redaktor: Paula Mugulska
+## redaktor: Paula Migulska
 emai: paula9610.pm@gmail.com
 [link do przepisu 2](przepis2.md) 
-[link do Paula Mugulska bio](PaulaMugulska.md) 
+[link do Paula Mugulska bio](PaulaMigulska.md) 
 
 ## redaktor: Magdalena Staniszewska
 emai: madlena.staniszewska@gmail.com
